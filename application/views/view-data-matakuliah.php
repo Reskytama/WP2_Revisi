@@ -2,7 +2,6 @@
 <head>
  <title>Tampil Data Matakuliah</title>
 </head>
-41
 <body>
  <center>
  <table>
@@ -39,7 +38,7 @@
  </tr>
  <tr>
  <td colspan="3" align="center">
- <a href="<?= base_url('matakuliah'); 
+ <a href="<?= base_url('Matakuliah'); 
 ?>">Kembali</a>
  </td>
  </tr>
